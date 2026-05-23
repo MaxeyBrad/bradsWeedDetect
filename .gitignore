@@ -1,0 +1,11 @@
+# Ignore file
+
+# Ignore everything but py
+/*
+!/*.py
+!/*/
+!/.gitignore
+
+
+images/
+venv/
